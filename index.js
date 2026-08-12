@@ -2,7 +2,7 @@ import express from 'express'
 const app = express();
 const PORT = process.env.PORT || 8080;
 const DIR = 'v7-git-actions-12ag26';
-const UPD = 'UPD-9-Srvr + GitActions \n';
+const UPD = 'UPD-10-Srvr + GitActions - FINAL \n';
 
 
 app.get('/', (req, res) => {
